@@ -1,0 +1,7 @@
+.*
+!.gitignore
+target
+WebContent
+*.log
+*.iml
+*.versionsBackup
