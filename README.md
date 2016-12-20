@@ -1,6 +1,8 @@
 Redis Embedded Server
 =====================
 
+![build](https://travis-ci.org/xieyanze/redis-embedded-server.svg?branch=master)
+
 ## redis server java 版本客户端,适用于集成测试.
 
 >注意此版本只用于验证业务代码是否正确,不能用于测试性能
