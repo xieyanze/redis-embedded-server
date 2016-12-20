@@ -1,5 +1,5 @@
 .*
-.travis.yml
+!.travis.yml
 !.gitignore
 target
 WebContent
